@@ -1,0 +1,3 @@
+s="i am studying in AU"
+s2=s.replace(" ","&")
+print(s2)
